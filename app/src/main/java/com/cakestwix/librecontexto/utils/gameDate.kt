@@ -1,6 +1,5 @@
 package com.cakestwix.librecontexto.utils
 
-import android.util.Log
 import java.text.SimpleDateFormat
 import java.util.Date
 
