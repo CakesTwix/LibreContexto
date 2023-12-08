@@ -1,2 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="action_settings">Налаштування</string>
+    <string name="menu_fragment_label">Меню</string>
+    <string name="howtoplay_fragment_label">Як грати</string>
+    <string name="next">Наступний</string>
+    <string name="previous">Попередній</string>
+    <string name="today">Сьогоднішня гра:</string>
+    <string name="start">Почати</string>
+    <string name="previous_games">Попередні ігри</string>
+    <string name="settings">Налаштування</string>
+    <string name="how_to_play">Як грати</string>
+    <string name="okay">Гаразд</string>
+    <string name="negative_number">Виберіть дату не пізніше 18/9/2022</string>
+    <string name="in_progress">У процесі</string>
+    <string name="no_game_yet">На цю дату ще немає гри</string>
+    <string name="howtoplay_help">Знайдіть секретне слово. У вас необмежені здогадки.
+\n
+\n Слова були сортовані за алгоритмом штучного інтелекту відповідно до того, наскільки вони були схожі на секретне слово.
+\n
+\n Після введення слова ви побачите його позицію. Секретне слово під номером 1.
+\n
+\n Алгоритм проаналізував тисячі текстів. Він використовує контекст, в якому слова використовуються для обчислення подібності між ними.</string>
+</resources>
